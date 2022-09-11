@@ -1,1 +1,1 @@
-# tinder_ai_auto_swiper
+# Tinder AI Auto Swiper
