@@ -4,3 +4,6 @@
 [submodule "facial-recognition-and-rating-api"]
 	path = facial-recognition-and-rating-api
 	url = https://github.com/willhughes11/facial-recognition-and-rating-api.git
+[submodule "bot"]
+	path = bot
+	url = https://github.com/willhughes11/tinder-user-imitation-app.git
