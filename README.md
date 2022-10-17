@@ -1,6 +1,8 @@
 # Tinder AI Auto Swiper
 ### Two part system that implements facial recognition, attractiveness ratings and Tinder API and UI interaction to automate Tinder swipe process.
 
+<br>
+
 # API
 
 ## Endpoints
@@ -20,6 +22,8 @@ POST /rating?race=[<ins>race</ins>]&rating=[<ins>rating</ins>]
     "rating": 2.5576894283294678
 }
 ```
+
+<br>
 
 # Bot
 
