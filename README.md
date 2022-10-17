@@ -1,8 +1,6 @@
 # Tinder AI Auto Swiper
 ### Two part system that implements facial recognition, attractiveness ratings and Tinder API and UI interaction to automate Tinder swipe process.
 
-<br>
-
 # API
 
 ## Endpoints
@@ -23,13 +21,9 @@ POST /rating?race=[<ins>race</ins>]&rating=[<ins>rating</ins>]
 }
 ```
 
-<br>
-
 # Bot
 
 ### Signs in to Tinder, grabs potential match profile pictures, and sends them to flask server
-
-<br>
 
 ## Required Environment Variables
 * FB_USERNAME
