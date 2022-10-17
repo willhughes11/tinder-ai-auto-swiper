@@ -27,7 +27,7 @@ POST /rating?race=[<ins>race</ins>]&rating=[<ins>rating</ins>]
 
 # Bot
 
-### Sign in to Tinder, grabs potential match profile pictures, and sends them to flask server
+### Signs in to Tinder, grabs potential match profile pictures, and sends them to flask server
 
 <br>
 
