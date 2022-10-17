@@ -34,6 +34,11 @@ POST /rating?race=[<ins>race</ins>]&rating=[<ins>rating</ins>]
 }
 ```
 
+## Example Usage
+```
+flask run
+```
+
 <br>
 
 # Bot
