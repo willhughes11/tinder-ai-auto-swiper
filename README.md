@@ -5,7 +5,7 @@
 
 # API
 
-The API accepts image URLs or Base64 encoded images, runs facial recognition on the images, picks the most frequently occurring face, if a racial preference has been set it determines the race of the face, if a minimum rating threshold has been set it rates there attractiveness, lastly returning the match information and decision.
+The API accepts image URLs or Base64 encoded images, runs facial recognition on the images, picks the most frequently occurring face, if a racial preference has been set it determines the race of the face, if a minimum rating threshold has been set it rates their attractiveness, lastly returning the match information and decision.
 
 ## Endpoints
 POST /rating?race=[<ins>race</ins>]&rating=[<ins>rating</ins>]
