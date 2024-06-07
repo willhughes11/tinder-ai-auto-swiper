@@ -3,6 +3,9 @@ Flask==3.0.3
 numpy==1.26.4
 opencv_python==4.10.0.82
 Pillow==10.3.0
-requests==2.32.3
 tensorflow==2.16.1
 validators==0.28.3
+beautifulsoup4==4.12.3
+python-dotenv==1.0.1
+requests==2.32.3
+selenium==4.21.0
