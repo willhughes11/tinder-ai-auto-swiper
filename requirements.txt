@@ -1,4 +1,4 @@
-deepface==0.0.91
+deepface==0.0.92
 Flask==3.0.3
 numpy==1.26.4
 opencv_python==4.10.0.82
@@ -9,3 +9,6 @@ beautifulsoup4==4.12.3
 python-dotenv==1.0.1
 requests==2.32.3
 selenium==4.21.0
+tf-keras
+numpy
+setuptools
