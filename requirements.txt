@@ -11,3 +11,4 @@ requests==2.32.3
 selenium==4.21.0
 tf-keras
 numpy
+setuptools
